@@ -20,3 +20,6 @@ As a cybersecurity analyst, you are tasked with using this security event to cre
 - **Detect** potential security incidents and improve monitoring capabilities to increase the speed and efficiency of detections.
 - **Respond** to contain, neutralize, and analyze security incidents; implement improvements to the security process.
 - **Recover** affected systems to normal operation and restore systems data and/or assets that have been affected by an incident. 
+
+## Tasks have been completed - step by step:
+- [x] Review [incident report analysis template](https://github.com/binhnhu1409/Cybersecurity_UseNISTCSF/blob/main/Incident%20report%20analysis%20template.pdf) and read how to apply the [NIST CSF](https://github.com/binhnhu1409/Cybersecurity_UseNISTCSF/blob/main/Applying%20the%20NIST%20CSF%20.pdf) to the case
