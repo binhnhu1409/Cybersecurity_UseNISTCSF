@@ -23,3 +23,9 @@ As a cybersecurity analyst, you are tasked with using this security event to cre
 
 ## Tasks have been completed - step by step:
 - [x] Review [incident report analysis template](https://github.com/binhnhu1409/Cybersecurity_UseNISTCSF/blob/main/Incident%20report%20analysis%20template.pdf) and read how to apply the [NIST CSF](https://github.com/binhnhu1409/Cybersecurity_UseNISTCSF/blob/main/Applying%20the%20NIST%20CSF%20.pdf) to the case
+- [x] Write a summary of the incident into the [report](https://github.com/binhnhu1409/Cybersecurity_UseNISTCSF/blob/main/Incident%20report%20analysis.pdf)
+- [x] Identifies the type of attack, including which devices or systems in the network were impacted by the security event. Put this information in the section titled "Identify" in the report.
+- [x] Offers a plan to further protect the network from future incidents. Put this information in the section titled "Protect" in the report.
+- [x] Determine methods for detecting security events in the future. Put this information in the section titled "Detect" in the report.
+- [x] Create a response process for future cybersecurity incidents. Put this information in the section titled "Respond" in the report.
+- [x] Lists procedures to recover from a similar security event. Put this information in the section titled "Recover" in the report.
